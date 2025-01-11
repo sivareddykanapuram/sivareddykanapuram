@@ -41,7 +41,8 @@ src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=vir
 
 ##🛡️ Security & Networking
 
-<p align="left"> <img src="https://img.shields.io/badge/Iptables-0088CC?style=for-the-badge" alt="Iptables" /> <img src="https://img.shields.io/badge/SELinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="SELinux" /> <img src="https://img.shields.io/badge/OpenSSL-721817?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Iptables-0088CC?style=for-the-badge" alt="Iptables" /> <img src="https://img.shields.io/badge/SELinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="SELinux" /> <img src="https://img.shields.io/badge/OpenSSL-721817?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" /><img src="https://img.shields.io/badge/Firewall-Security-E44C65?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewall Badge"> </p>
+
 Hardened Linux systems using SELinux, firewalld, and secure configurations.
 Managed VPN setups (OpenVPN, WireGuard) for secure remote access.
 Performed regular vulnerability assessments and applied necessary patches.
@@ -57,7 +58,7 @@ Orchestrated containerized applications with Docker and Kubernetes.
 ## Monitoring & Logging
 
 
-<p align="left"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Zabbix-DB0A0A?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/ServiceNow-29B2FE?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Badge"> <img src="https://img.shields.io/badge/BMC%20Remedy-FF6600?style=for-the-badge&logo=bmcsoftware&logoColor=white" alt="BMC Remedy Badge"> </p>
 Monitored server performance using Prometheus and visualized metrics with Grafana.
 Configured alerts for resource thresholds and service failures.
 Certifications (In Progress/Planned)
