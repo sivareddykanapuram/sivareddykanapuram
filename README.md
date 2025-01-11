@@ -12,8 +12,11 @@ Hi, I’m sivareddy Kanapuram, a dedicated Linux Administrator and DevOps profes
 -💼 Current Role: Linux System Administrator and DevOps Engineer.
 
 -🎯 2025 Goals:
+
      1.Achieve certifications in Red Hat Certified Engineer (RHCE) and AWS Certified SysOps Administrator.
+     
      2.Master Kubernetes administration and enhance orchestration capabilities.
+     
      3.Deepen expertise in network administration and cybersecurity. 
 
 ---
@@ -27,11 +30,15 @@ Hi, I’m sivareddy Kanapuram, a dedicated Linux Administrator and DevOps profes
 
 ##🛠️ Core Linux Skills
 
-Proficient in shell scripting for automation (Bash, Python).
-Hands-on experience with package management (Yum, DNF, APT).
-Expertise in system performance tuning, resource allocation, and monitoring.
-Configuration and management of file systems (LVM, EXT4, XFS).
-Network setup and troubleshooting: DNS, DHCP, NFS, Samba, FTP.
+_Proficient in shell scripting for automation (Bash, Python).
+
+_Hands-on experience with package management (Yum, DNF, APT).
+
+_Expertise in system performance tuning, resource allocation, and monitoring.
+
+_Configuration and management of file systems (LVM, EXT4, XFS).
+
+_Network setup and troubleshooting: DNS, DHCP, NFS, Samba, FTP.
 
 ## 🌩️ Cloud & Virtualization
 
@@ -43,9 +50,11 @@ src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=vir
 
 <p align="left"> <img src="https://img.shields.io/badge/Iptables-0088CC?style=for-the-badge" alt="Iptables" /> <img src="https://img.shields.io/badge/SELinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="SELinux" /> <img src="https://img.shields.io/badge/OpenSSL-721817?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" /><img src="https://img.shields.io/badge/Firewall-Security-E44C65?style=for-the-badge&logo=firewall&logoColor=white" alt="Firewall Badge"> </p>
 
-Hardened Linux systems using SELinux, firewalld, and secure configurations.
-Managed VPN setups (OpenVPN, WireGuard) for secure remote access.
-Performed regular vulnerability assessments and applied necessary patches.
+_Hardened Linux systems using SELinux, firewalld, and secure configurations.
+
+_Managed VPN setups (OpenVPN, WireGuard) for secure remote access.
+
+_Performed regular vulnerability assessments and applied necessary patches.
 
 ##🔧 Automation & Infrastructure as Code (IaC)
 
@@ -59,12 +68,17 @@ Orchestrated containerized applications with Docker and Kubernetes.
 
 
 <p align="left"> <img src="https://img.shields.io/badge/ServiceNow-29B2FE?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Badge"> <img src="https://img.shields.io/badge/BMC%20Remedy-FF6600?style=for-the-badge&logo=bmcsoftware&logoColor=white" alt="BMC Remedy Badge"> </p>
-Monitored server performance using Prometheus and visualized metrics with Grafana.
-Configured alerts for resource thresholds and service failures.
-Certifications (In Progress/Planned)
-Red Hat Certified Engineer (RHCE).
-AWS Certified SysOps Administrator.
-Kubernetes Administrator (CKA).
+_Monitored server performance using Servicenow and visualized metrics with Grafana.
+
+_Configured alerts for resource thresholds and service failures.
+
+_Certifications (In Progress/Planned)
+
+_Red Hat Certified Engineer (RHCE).
+
+_AWS Certified SysOps Administrator.
+
+_Kubernetes Administrator (CKA).
 
 
 ## 📣 Let’s Connect
